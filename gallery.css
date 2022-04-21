@@ -1,0 +1,25 @@
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    margin-left: calc(10%/6.5);
+    padding: 20px 0;
+    font-family: 'Raleway' sans-serif;
+}
+img{
+    width: 30%;
+    margin: calc(10%/6.5);
+     /* display: inline-block; 
+    margin: 10px; */
+}
+/* div{
+    margin-left: 15%;
+    
+}
+div:nth-of-type(1){
+    font-size: 20px;
+}
+div#nameTop{
+    width: 23%;
+    margin-left: 16%;
+    /* background-color: red; */
